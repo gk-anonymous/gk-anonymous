@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kamble</h1>
-<h3 align="center">A passionate Ethical Hacker from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning **Coding, Cybersecurity, Ethical Hacking, OOPs, DBMS, OS, CN**
 
