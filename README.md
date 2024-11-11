@@ -1,5 +1,5 @@
 <img align="right" alt="coding" width="300" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
-# 💫 About Me:
+## 💫 About Me:
 A passionate Full Stack Developer from India<br>Tech Innovator | Ex. LinuxWorld | Python | AWS | Full Stack Developer | Driving Innovation and Cloud Solutions | B.Tech, VIT Pune<br><br>📫 How to reach me gauravkamble9112@gmail.com<br><br>⚡ Fun fact: I am a Fitness Freak, Sports Player, and I think I'm a good comedia
 
 
