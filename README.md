@@ -9,9 +9,9 @@
 
 💎 **Why I Stand Out:**
 - Built **8 production-grade AI projects** during academics
-- **Certified** in AWS Machine Learning & Kubernetes (KCNA)
+- **Certified** in AWS Machine Learning & Kubernetes 
 - **Published researcher** at IEEE conferences
-- **Open source contributor** to HuggingFace ecosystem
+- **Open source contributor** 
 
 ---
 
@@ -35,8 +35,8 @@
 
 ### 🏅 Academic Honors
 - **McKinsey Scholar** (Top 0.5% selection)
-- **Smart India Hackathon Winner** (AI/ML Track)
-- **3.9/4.0 GPA** with specialization in Machine Learning
+- **Finalist at Webster Hackathon** (AI/ML Track)
+- **8.01/10 CGPA** with specialization in Machine Learning
 - **Department Rank #3** among 180 students
 
 ### 💻 Project Impact
