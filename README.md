@@ -1,5 +1,5 @@
 # 🌟 Gaurav Kamble | Elite AI Graduate 
-### **Top 1% of VIT Pune** | **GenAI Researcher** | **K8s Certified** | **McKinsey Scholar**
+### **Top 1% of VIT Pune** | **GenAI Researcher** | **KodeKloud K8s Certified** | **McKinsey Scholar**
 
 <img align="right" alt="AI Development" width="320" src="https://raw.githubusercontent.com/gk-anonymous/gk-anonymous/main/ai_coding.gif">
 
